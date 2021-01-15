@@ -5,3 +5,7 @@
 # 1475. Final Prices With a Special Discount in a Shop
 
 # 961. N-Repeated Element in Size 2N Array
+
+# 1299. Replace Elements with Greatest Element on Right Side
+
+# 657. Robot Return to Origin
