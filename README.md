@@ -13,3 +13,5 @@
 # 942. DI String Match
 
 # 590. N-ary Tree Postorder Traversal
+
+# 589. N-ary Tree Preorder Traversal
