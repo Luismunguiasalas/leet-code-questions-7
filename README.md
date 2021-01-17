@@ -21,3 +21,7 @@
 # 561. Array Partition I
 
 # 977. Squares of a Sorted Array
+
+# 1460. Make Two Arrays Equal by Reversing Sub-arrays
+
+# 933. Number of Recent Calls
