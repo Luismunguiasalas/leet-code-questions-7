@@ -25,3 +25,11 @@
 # 1460. Make Two Arrays Equal by Reversing Sub-arrays
 
 # 933. Number of Recent Calls
+
+# 1051. Height Checker
+
+# 852. Peak Index in a Mountain Array
+
+# 1207 Unique number of Occurrences
+
+# 557. Reverse Words in a String III
