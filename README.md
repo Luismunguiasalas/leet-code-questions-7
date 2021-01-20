@@ -35,3 +35,5 @@
 # 557. Reverse Words in a String III
 
 # 1710. Maximum Units on a Truck
+
+# 1217. Minimum Cost to Move Chips to The Same Position
