@@ -39,3 +39,5 @@
 # 1217. Minimum Cost to Move Chips to The Same Position
 
 # 944. Delete Columns to Make Sorted
+
+# 1380. Lucky Numbers in a Matrix
